@@ -1,0 +1,65 @@
+@red: #c0392b;
+@yellow: #f1c40f;
+@green: #27ae60;
+@blue: #3498db;
+
+html { box-sizing: border-box; }
+*, *:before, *:after { box-sizing: inherit; }
+
+body {
+	background: #333;
+	color: white;
+	font-family: "Open Sans", sans-serif;
+	font-weight: 300;
+	line-height: 1.4;
+	padding: 0;
+}
+
+#app {
+
+}
+
+#map {
+	height: 200px;
+	overflow: hidden;
+}
+
+#list {
+	padding: 4px 0;
+}
+
+#settings {
+	position: absolute;
+	top: 200px;
+	left: 50%;
+	right: 0;
+	padding-top: 20px;
+}
+
+ol {
+	li {
+		border-left: 10px solid white;
+		margin-bottom: 4px;
+		padding: 0 0 5px 20px;
+
+		&.blue { border-color: @blue; }
+		&.yellow { border-color: @yellow; }
+		&.green { border-color: @green; }
+		&.red { border-color: @red; }
+
+		h2 {
+			font-size: 30px;
+		}
+
+		p {
+			font-size: 14px;
+			color: #ccc;
+		}
+	}
+}
+
+p.notrains {
+	font-size: 30px;
+	text-align: center;
+	padding: 100px 40px;
+}

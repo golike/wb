@@ -1,0 +1,5 @@
+.DS_Store
+*.min.css
+*.min.js
+*.min.json
+lib/

@@ -1,0 +1,363 @@
+[{
+    "name": "12th St Oakland City Center",
+    "abbr": "12TH",
+    "latitude": 37.803665,
+    "longitude": -122.271606,
+    "address": "1245 Broadway",
+    "city": "Oakland",
+    "zipcode": 94612
+}, {
+    "name": "16th St Mission",
+    "abbr": "16TH",
+    "latitude": 37.765060,
+    "longitude": -122.419693,
+    "address": "2000 Mission St",
+    "city": "San Francisco",
+    "zipcode": 94110
+}, {
+    "name": "19th St Oakland",
+    "abbr": "19TH",
+    "latitude": 37.807869,
+    "longitude": -122.269028,
+    "address": "1900 Broadway",
+    "city": "Oakland",
+    "zipcode": 94612
+}, {
+    "name": "24th St Mission",
+    "abbr": "24TH",
+    "latitude": 37.752254,
+    "longitude": -122.418465,
+    "address": "2800 Mission St",
+    "city": "San Francisco",
+    "zipcode": 94110
+}, {
+    "name": "Ashby",
+    "abbr": "ASHB",
+    "latitude": 37.853024,
+    "longitude": -122.269783,
+    "address": "3100 Adeline St",
+    "city": "Berkeley",
+    "zipcode": 94703
+}, {
+    "name": "Balboa Park",
+    "abbr": "BALB",
+    "latitude": 37.721981,
+    "longitude": -122.447411,
+    "address": "401 Geneva Ave",
+    "city": "San Francisco",
+    "zipcode": 94112
+}, {
+    "id": "1132",
+    "datetime": "2015-09-05 03:06:02",
+    "name": "Bay Fair",
+    "abbr": "BAYF",
+    "latitude": 37.697186,
+    "longitude": -122.126869,
+    "address": "15242 Hesperian Blvd",
+    "city": "San Leandro",
+    "zipcode": 94578
+}, {
+    "name": "Castro Valley",
+    "abbr": "CAST",
+    "latitude": 37.690754,
+    "longitude": -122.075569,
+    "address": "3301 Norbridge Dr.",
+    "city": "Castro Valley",
+    "zipcode": 94546
+}, {
+    "name": "Civic Center/UN Plaza",
+    "abbr": "CIVC",
+    "latitude": 37.779530,
+    "longitude": -122.413757,
+    "address": "1150 Market St",
+    "city": "San Francisco",
+    "zipcode": 94102
+}, {
+    "name": "Coliseum/Oakland Airport",
+    "abbr": "COLS",
+    "latitude": 37.754005,
+    "longitude": -122.197273,
+    "address": "7200 San Leandro St",
+    "city": "Oakland",
+    "zipcode": 94621
+}, {
+    "name": "Colma",
+    "abbr": "COLM",
+    "latitude": 37.684639,
+    "longitude": -122.466232,
+    "address": "365 D St",
+    "city": "Colma",
+    "zipcode": 94014
+}, {
+    "name": "Concord",
+    "abbr": "CONC",
+    "latitude": 37.973736,
+    "longitude": -122.029099,
+    "address": "1451 Oakland Ave",
+    "city": "Concord",
+    "zipcode": 94520
+}, {
+    "name": "Daly City",
+    "abbr": "DALY",
+    "latitude": 37.706120,
+    "longitude": -122.469078,
+    "address": "500 John Daly Blvd",
+    "city": "Daly City",
+    "zipcode": 94014
+}, {
+    "name": "Downtown Berkeley",
+    "abbr": "DBRK",
+    "latitude": 37.869865,
+    "longitude": -122.268044,
+    "address": "2160 Shattuck Ave",
+    "city": "Berkeley",
+    "zipcode": 94704
+}, {
+    "name": "Dublin/Pleasanton",
+    "abbr": "DUBL",
+    "latitude": 37.701694,
+    "longitude": -121.900368,
+    "address": "5801 Owens Dr.",
+    "city": "Pleasanton",
+    "zipcode": 94588
+}, {
+    "name": "El Cerrito del Norte",
+    "abbr": "DELN",
+    "latitude": 37.925655,
+    "longitude": -122.317268,
+    "address": "6400 Cutting Blvd",
+    "city": "El Cerrito",
+    "zipcode": 94530
+}, {
+    "name": "El Cerrito Plaza",
+    "abbr": "PLZA",
+    "latitude": 37.903057,
+    "longitude": -122.299271,
+    "address": "6699 Fairmount Ave",
+    "city": "El Cerrito",
+    "zipcode": 94530
+}, {
+    "name": "Embarcadero",
+    "abbr": "EMBR",
+    "latitude": 37.792976,
+    "longitude": -122.396744,
+    "address": "298 Market St",
+    "city": "San Francisco",
+    "zipcode": 94111
+}, {
+    "name": "Fremont",
+    "abbr": "FRMT",
+    "latitude": 37.557354,
+    "longitude": -121.976402,
+    "address": "2000 BART Way",
+    "city": "Fremont",
+    "zipcode": 94536
+}, {
+    "name": "Fruitvale",
+    "abbr": "FTVL",
+    "latitude": 37.774963,
+    "longitude": -122.224274,
+    "address": "3401 East 12th St",
+    "city": "Oakland",
+    "zipcode": 94601
+}, {
+    "name": "Glen Park",
+    "abbr": "GLEN",
+    "latitude": 37.732922,
+    "longitude": -122.434090,
+    "address": "2901 Diamond St",
+    "city": "San Francisco",
+    "zipcode": 94131
+}, {
+    "name": "Hayward",
+    "abbr": "HAYW",
+    "latitude": 37.670399,
+    "longitude": -122.087967,
+    "address": "699 B St",
+    "city": "Hayward",
+    "zipcode": 94541
+}, {
+    "name": "Lafayette",
+    "abbr": "LAFY",
+    "latitude": 37.893394,
+    "longitude": -122.123802,
+    "address": "3601 Deer Hill Rd",
+    "city": "Lafayette",
+    "zipcode": 94549
+}, {
+    "name": "Lake Merritt",
+    "abbr": "LAKE",
+    "latitude": 37.797485,
+    "longitude": -122.265610,
+    "address": "800 Madison St",
+    "city": "Oakland",
+    "zipcode": 94607
+}, {
+    "name": "MacArthur",
+    "abbr": "MCAR",
+    "latitude": 37.828415,
+    "longitude": -122.267227,
+    "address": "555 40th St",
+    "city": "Oakland",
+    "zipcode": 94609
+}, {
+    "name": "Millbrae",
+    "abbr": "MLBR",
+    "latitude": 37.599789,
+    "longitude": -122.386658,
+    "address": "200 North Rollins Rd",
+    "city": "Millbrae",
+    "zipcode": 94030
+}, {
+    "name": "Montgomery St",
+    "abbr": "MONT",
+    "latitude": 37.789257,
+    "longitude": -122.401405,
+    "address": "598 Market St",
+    "city": "San Francisco",
+    "zipcode": 94104
+}, {
+    "name": "North Berkeley",
+    "abbr": "NBRK",
+    "latitude": 37.874039,
+    "longitude": -122.283447,
+    "address": "1750 Sacramento St",
+    "city": "Berkeley",
+    "zipcode": 94702
+}, {
+    "name": "North Concord/Martinez",
+    "abbr": "NCON",
+    "latitude": 38.003277,
+    "longitude": -122.024597,
+    "address": "3700 Port Chicago Highway",
+    "city": "Concord",
+    "zipcode": 94520
+}, {
+    "name": "Oakland Int'l Airport",
+    "abbr": "OAKL",
+    "latitude": 37.712971,
+    "longitude": -122.212440,
+    "address": "4 Airport Dr",
+    "city": "Oakland",
+    "zipcode": 94621
+}, {
+    "name": "Orinda",
+    "abbr": "ORIN",
+    "latitude": 37.878361,
+    "longitude": -122.183792,
+    "address": "11 Camino Pablo",
+    "city": "Orinda",
+    "zipcode": 94563
+}, {
+    "name": "Pittsburg/Bay Point",
+    "abbr": "PITT",
+    "latitude": 38.018913,
+    "longitude": -121.945152,
+    "address": "1700 West Leland Rd",
+    "city": "Pittsburg",
+    "zipcode": 94565
+}, {
+    "name": "Pleasant Hill/Contra Costa Centre",
+    "abbr": "PHIL",
+    "latitude": 37.928402,
+    "longitude": -122.056015,
+    "address": "1365 Treat Blvd",
+    "city": "Walnut Creek",
+    "zipcode": 94597
+}, {
+    "name": "Powell St",
+    "abbr": "POWL",
+    "latitude": 37.784992,
+    "longitude": -122.406860,
+    "address": "899 Market St",
+    "city": "San Francisco",
+    "zipcode": 94102
+}, {
+    "name": "Richmond",
+    "abbr": "RICH",
+    "latitude": 37.936886,
+    "longitude": -122.353165,
+    "address": "1700 Nevin Ave",
+    "city": "Richmond",
+    "zipcode": 94801
+}, {
+    "name": "Rockridge",
+    "abbr": "ROCK",
+    "latitude": 37.844601,
+    "longitude": -122.251793,
+    "address": "5660 College Ave",
+    "city": "Oakland",
+    "zipcode": 94618
+}, {
+    "name": "San Bruno",
+    "abbr": "SBRN",
+    "latitude": 37.637753,
+    "longitude": -122.416039,
+    "address": "1151 Huntington Ave",
+    "city": "San Bruno",
+    "zipcode": 94066
+}, {
+    "name": "San Francisco Int'l Airport",
+    "abbr": "SFIA",
+    "latitude": 37.616035,
+    "longitude": -122.392609,
+    "address": "International Terminal, Level 3",
+    "city": "San Francisco Int'l Airport",
+    "zipcode": 94128
+}, {
+    "name": "San Leandro",
+    "abbr": "SANL",
+    "latitude": 37.722618,
+    "longitude": -122.161308,
+    "address": "1401 San Leandro Blvd",
+    "city": "San Leandro",
+    "zipcode": 94577
+}, {
+    "name": "South Hayward",
+    "abbr": "SHAY",
+    "latitude": 37.634800,
+    "longitude": -122.057549,
+    "address": "28601 Dixon St",
+    "city": "Hayward",
+    "zipcode": 94544
+}, {
+    "name": "South San Francisco",
+    "abbr": "SSAN",
+    "latitude": 37.664173,
+    "longitude": -122.444115,
+    "address": "1333 Mission Rd",
+    "city": "South San Francisco",
+    "zipcode": 94080
+}, {
+    "name": "Union City",
+    "abbr": "UCTY",
+    "latitude": 37.591209,
+    "longitude": -122.017868,
+    "address": "10 Union Square",
+    "city": "Union City",
+    "zipcode": 94587
+}, {
+    "name": "Walnut Creek",
+    "abbr": "WCRK",
+    "latitude": 37.905628,
+    "longitude": -122.067421,
+    "address": "200 Ygnacio Valley Rd",
+    "city": "Walnut Creek",
+    "zipcode": 94596
+}, {
+    "name": "West Dublin/Pleasanton",
+    "abbr": "WDUB",
+    "latitude": 37.699760,
+    "longitude": -121.928101,
+    "address": "6501 Golden Gate Dr",
+    "city": "Dublin",
+    "zipcode": 94568
+}, {
+    "name": "West Oakland",
+    "abbr": "WOAK",
+    "latitude": 37.804676,
+    "longitude": -122.294579,
+    "address": "1451 7th St",
+    "city": "Oakland",
+    "zipcode": 94607
+}]
